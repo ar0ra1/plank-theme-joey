@@ -7,4 +7,6 @@ A bit like Sierra :)
 `$ plank --preferences`  
 `choose theme = ar0ra1`  
 
+Works best with intellihide behaviour!
+
 Feedback and imporvements are always appreciated ;)
