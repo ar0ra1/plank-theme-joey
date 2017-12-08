@@ -9,4 +9,4 @@ A bit like Sierra :)
 
 Works best with intellihide behaviour!
 
-Feedback and imporvements are always appreciated ;)
+Feedback and improvements are always appreciated ;)
