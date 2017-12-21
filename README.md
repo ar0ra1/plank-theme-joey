@@ -1,9 +1,12 @@
-# plank-theme
-A bit like Sierra :)
+# plank-theme-joey  
+A bit like Sierra :)  
+Dark Theme  
+If you prefer a lighter theme -  
+https://github.com/ar0ra1/plank-theme-jenny.git
 
 ### Instructions
 
-`# git clone https://github.com/ar0ra1/plank-theme.git /usr/share/plank/themes/joey/ `  
+`# git clone https://github.com/ar0ra1/plank-theme-joey.git /usr/share/plank/themes/joey/ `  
 `$ plank --preferences`  
 `choose theme = joey`  
 
