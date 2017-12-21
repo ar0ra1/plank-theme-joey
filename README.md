@@ -3,9 +3,9 @@ A bit like Sierra :)
 
 ### Instructions
 
-`# git clone https://github.com/ar0ra1/plank-theme.git /usr/share/plank/themes/ar0ra1/ `  
+`# git clone https://github.com/ar0ra1/plank-theme.git /usr/share/plank/themes/joey/ `  
 `$ plank --preferences`  
-`choose theme = ar0ra1`  
+`choose theme = joey`  
 
 Works best with intellihide behaviour!
 
