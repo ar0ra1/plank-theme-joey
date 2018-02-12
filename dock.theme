@@ -10,9 +10,9 @@ LineWidth=0
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=0;;0;;0;;100
 #The starting color (RGBA) of the fill gradient.
-FillStartColor=110;;107;;111;;195
+FillStartColor=110;;107;;111;;240
 #The ending color (RGBA) of the fill gradient.
-FillEndColor=110;;107;;111;;195
+FillEndColor=110;;107;;111;;240
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=22;;220;;220;;0
 
@@ -20,7 +20,7 @@ InnerStrokeColor=22;;220;;220;;0
 #The padding on the left/right dock edges, in tenths of a percent of IconSize.
 HorizPadding=3
 #The padding on the top dock edge, in tenths of a percent of IconSize.
-TopPadding=1.5
+TopPadding=2
 #The padding on the bottom dock edge, in tenths of a percent of IconSize.
 BottomPadding=2
 #The padding between items on the dock, in tenths of a percent of IconSize.
